@@ -34,6 +34,9 @@
     <title>test-my-site</title>
     <url>/2020/06/20/test-my-site/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
   </entry>
   <entry>
     <title>my-post</title>
