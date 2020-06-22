@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Resume</title>
-    <url>/2020/05/21/liangluresume/</url>
+    <title>test</title>
+    <url>/2020/06/22/liangluresume/</url>
     <content><![CDATA[<div align=center> 
 <img src="2018200775.jpg" width = 25% height = 20% />
 <font face="微软雅黑" color=black size=5>LiangLu</font>
@@ -112,6 +112,12 @@ Hello! This is LiangLu, a PhD student in traffic engineering at School Of Transp
 <td><strong>Mian Working:</strong> Applied didi vehicle data correction to establish mathematical model using MATLAB, and developed an analogue simulation to road network trajectory</td>
 </tr>
 </tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/06/22/test/</url>
+    <content><![CDATA[<p>测试这篇文章是否可以运行</p>
 ]]></content>
   </entry>
 </search>
