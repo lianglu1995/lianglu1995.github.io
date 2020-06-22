@@ -312,6 +312,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2020/06/20/my-post/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2020/06/20/my-post/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -489,6 +499,9 @@
 
           
 
+  
+    <div class="comments" id="comments">
+    </div>
   
 
 
@@ -848,23 +861,29 @@ setInterval("createtime()",250);
 
 
 
-
-
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-  <div id="gitalk-container"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
   <script type="text/javascript">
-    var gitalk = new Gitalk({
-      clientID: '',
-      clientSecret: '',
-      repo: 'comment',
-      owner: 'lianglu1995',
-      admin: ['lianglu1995'],
-      id: location.pathname,
-      distractionFreeMode: ''
-    })
-    gitalk.render('gitalk-container')
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'kKo2zcRUC6xgB3FIMxdYXyNp-MdYXbMMI',
+        appKey: 'MhHwcplvqTvyP3QkGhxA0eJ7',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
   </script>
+
+
 
   
 
