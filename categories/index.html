@@ -320,6 +320,8 @@
     
     <div class="sidebar-inner">
 
+
+
       
 
       
@@ -360,6 +362,15 @@
               </div>
             
 
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">1</span>
+                  <span class="site-state-item-name">tags</span>
+                </a>
+              </div>
             
 
           </nav>
@@ -413,10 +424,6 @@
                     <a href="https://qianni1997.github.io/" title="QianNi" target="_blank">QianNi</a>
                   </li>
                 
-                  <li class="links-of-blogroll-item">
-                    <a href="http://example.com/" title="Title" target="_blank">Title</a>
-                  </li>
-                
               </ul>
             </div>
           
@@ -432,6 +439,8 @@
 
       
 
+
+  
     </div>
   </aside>
 
@@ -482,7 +491,7 @@
 
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共89字</span>
+  <span class="post-count">博客全站共90字</span>
 </div>
 
 <div>
@@ -651,6 +660,22 @@ setInterval("createtime()",250);
 
 
 
+
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <div id="gitalk-container"></div>
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      clientID: 'e180b83e17df18f80ab8',
+      clientSecret: '4e4e896de2d5a445d2ba2e90031d7ec5ff83d4dd',
+      repo: 'lianglublogcomment',
+      owner: 'lianglu',
+      admin: ['lianglu'],
+      id: location.pathname,
+      distractionFreeMode: 'false'
+    })
+    gitalk.render('gitalk-container')
+  </script>
 
   
 
