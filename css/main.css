@@ -1115,6 +1115,7 @@ pre .javascript .function {
   color: #222;
   background: #222;
   border-bottom: none;
+  color: #000 !important;
 }
 .brand:hover {
   color: #222;
@@ -1975,7 +1976,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #09ff53;
+  background: #aaa6e7;
 }
 .links-of-blogroll {
   font-size: 13px;

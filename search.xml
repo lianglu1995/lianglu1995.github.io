@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2020/06/22/test/</url>
-    <content><![CDATA[<p>测试这篇文章是否可以运行</p>
-]]></content>
-  </entry>
-  <entry>
     <title>RESUME</title>
     <url>/2020/06/23/RESUME/</url>
     <content><![CDATA[<div align="center"> 
@@ -118,5 +112,11 @@ Hello! This is LiangLu, a PhD student in traffic engineering at School Of Transp
 </tr>
 </tbody></table>
 </div></div>]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/06/22/test/</url>
+    <content><![CDATA[<p>测试这篇文章是否可以运行</p>
+]]></content>
   </entry>
 </search>
