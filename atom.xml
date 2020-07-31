@@ -6,10 +6,32 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-24T01:54:40.462Z</updated>
+  <updated>2020-07-31T08:12:55.694Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/07/31/hello-world/"/>
+    <id>http://yoursite.com/2020/07/31/hello-world/</id>
+    <published>2020-07-31T08:12:55.694Z</published>
+    <updated>2020-07-31T08:12:55.694Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>RESUME</title>
@@ -40,16 +62,16 @@
     <link href="http://yoursite.com/2020/06/22/test/"/>
     <id>http://yoursite.com/2020/06/22/test/</id>
     <published>2020-06-22T10:56:03.000Z</published>
-    <updated>2020-06-24T08:56:21.657Z</updated>
+    <updated>2020-06-26T09:13:58.227Z</updated>
     
-    <content type="html"><![CDATA[<p>测试这篇文章是否可以运行</p>]]></content>
+    <content type="html"><![CDATA[<p>测试这篇文章是否可以运行</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line">def create_dataset_from_series(dataset,seq_len,lag &#x3D; 1,future_step &#x3D; 1):</span><br><span class="line">    &#39;&#39;&#39;</span><br><span class="line">    从一列时间数据中创建数据集</span><br><span class="line"></span><br><span class="line">    Parameters</span><br><span class="line">    ----------</span><br><span class="line">    dataset : np.array&#x2F;list</span><br><span class="line">        时间序列数据，用来生成数据和标签.</span><br><span class="line">    seq_len : int</span><br><span class="line">        序列长度，即一个样本中包含时间步的数量，对应生成数据集的特征数(n).</span><br><span class="line">    lag : int, optional</span><br><span class="line">        相邻两个样本间隔的时间步. The default is 1.</span><br><span class="line">    future_step : int, optional</span><br><span class="line">        标签集中包含的时间步数. The default is 1.</span><br><span class="line"></span><br><span class="line">    Returns</span><br><span class="line">    -------</span><br><span class="line">    numpy.array(dataX): np.array</span><br><span class="line">        数据集特征矩阵.</span><br><span class="line">    numpy.array(dataY): np.array</span><br><span class="line">        数据集标签矩阵.</span><br><span class="line"></span><br><span class="line">    &#39;&#39;&#39;</span><br><span class="line">    dataX,dataY &#x3D; [],[]</span><br><span class="line">    for i in range(0, len(dataset) - seq_len - future_step, lag):</span><br><span class="line">        a &#x3D; dataset[i:i+seq_len]</span><br><span class="line">        b &#x3D; dataset[i+seq_len:i+seq_len + future_step]</span><br><span class="line">        dataX.append(a)</span><br><span class="line">        dataY.append(b)</span><br><span class="line">    # if len(numpy.array(dataX).shape) &#x3D;&#x3D; 3:</span><br><span class="line">    #     m &#x3D; list(numpy.array(dataX).shape)</span><br><span class="line">    #     dataX &#x3D; numpy.array(dataX).reshape(m[0],m[1] * m[2])</span><br><span class="line">    #     dataY &#x3D; numpy.array(dataY).reshape(list(numpy.array(dataY).shape)[0])</span><br><span class="line">    return np.array(dataX),np.array(dataY)</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;测试这篇文章是否可以运行&lt;/p&gt;
-
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/
       
     
     </summary>
