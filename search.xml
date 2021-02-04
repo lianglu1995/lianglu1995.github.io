@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/07/31/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+    <title>head</title>
+    <url>/2021/02/04/head/</url>
+    <content><![CDATA[<h2 id="LiangLu"><a href="#LiangLu" class="headerlink" title="LiangLu"></a>LiangLu</h2><div align="left"> 
+<font face="微软雅黑" color="gray" size="3">Ph.D Candidate</font>
+<br> 
+<font face="微软雅黑" color="gray" size="3">SouthWest JiaoTong University</font>
+<br> 
 
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>Biography</title>
+    <url>/2021/02/04/Biography/</url>
+    <content><![CDATA[<h2 id="Biography"><a href="#Biography" class="headerlink" title="Biography"></a>Biography</h2><div align="left">
+Hello! This is LiangLu, a Ph.D candidate in traffic engineering at School Of Transportion and Logistics, SouthWest JiaoTong University, in chengdu city, working on connected vehicles and autonomous vehicles driving group led by Prof. fangfangzheng. My research focused on modeling the mixed traffic flow with both human drivers vehicles (HV) and autonomous vehicles (AV), estimating traffic state and optimaling traffic system by considering AV control strategies.
+<br>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>Honors and Awards</title>
+    <url>/2020/06/24/Honors%20and%20Awards/</url>
+    <content><![CDATA[<h2 id="Honors-and-Awards"><a href="#Honors-and-Awards" class="headerlink" title="Honors and Awards"></a>Honors and Awards</h2><p><strong>1、China Post-Graduate Mathematical Contest in Modeling：</strong> <font face="微软雅黑" color="gray" size="2"><em>The Second Prize,2018 and The Third Prize,2019</em></font></p>
+<p><strong>2、Pacemaker to Merit Student:</strong> <font face="微软雅黑" color="gray" size="2"><em>2018-2019</em></font></p>
+<p><strong>3、National Scholarship:</strong> <font face="微软雅黑" color="gray" size="2"><em>Ministry of Education of china . Nov 2019</em></font></p>
+<p><strong>4、The Second Prize Scholarship:</strong> <font face="微软雅黑" color="gray" size="2"><em>Academic scholarship of SWJTU . Nov 2018</em></font></p>
+<p><strong>5、The First Prize Scholarship:</strong> <font face="微软雅黑" color="gray" size="2"><em>Academic scholarship of SWJTU . Nov 2019</em></font></p>
+<p><strong>6、<a href="https://baike.baidu.com/item/唐立新/1982228?fr=aladdin" target="_blank" rel="noopener">TANG LIXIN</a> Scholarship:</strong> <font face="微软雅黑" color="gray" size="2"><em>Found by Mr. Tang, famous entrepreneur and philanthropist . Nov 2019</em></font></p>
 ]]></content>
   </entry>
   <entry>
@@ -132,11 +144,32 @@ Hello! This is LiangLu, a PhD student in traffic engineering at School Of Transp
 </div></div>]]></content>
   </entry>
   <entry>
-    <title>test</title>
-    <url>/2020/06/22/test/</url>
-    <content><![CDATA[<p>测试这篇文章是否可以运行</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">def create_dataset_from_series(dataset,seq_len,lag &#x3D; 1,future_step &#x3D; 1):</span><br><span class="line">    &#39;&#39;&#39;</span><br><span class="line">    从一列时间数据中创建数据集</span><br><span class="line"></span><br><span class="line">    Parameters</span><br><span class="line">    ----------</span><br><span class="line">    dataset : np.array&#x2F;list</span><br><span class="line">        时间序列数据，用来生成数据和标签.</span><br><span class="line">    seq_len : int</span><br><span class="line">        序列长度，即一个样本中包含时间步的数量，对应生成数据集的特征数(n).</span><br><span class="line">    lag : int, optional</span><br><span class="line">        相邻两个样本间隔的时间步. The default is 1.</span><br><span class="line">    future_step : int, optional</span><br><span class="line">        标签集中包含的时间步数. The default is 1.</span><br><span class="line"></span><br><span class="line">    Returns</span><br><span class="line">    -------</span><br><span class="line">    numpy.array(dataX): np.array</span><br><span class="line">        数据集特征矩阵.</span><br><span class="line">    numpy.array(dataY): np.array</span><br><span class="line">        数据集标签矩阵.</span><br><span class="line"></span><br><span class="line">    &#39;&#39;&#39;</span><br><span class="line">    dataX,dataY &#x3D; [],[]</span><br><span class="line">    for i in range(0, len(dataset) - seq_len - future_step, lag):</span><br><span class="line">        a &#x3D; dataset[i:i+seq_len]</span><br><span class="line">        b &#x3D; dataset[i+seq_len:i+seq_len + future_step]</span><br><span class="line">        dataX.append(a)</span><br><span class="line">        dataY.append(b)</span><br><span class="line">    # if len(numpy.array(dataX).shape) &#x3D;&#x3D; 3:</span><br><span class="line">    #     m &#x3D; list(numpy.array(dataX).shape)</span><br><span class="line">    #     dataX &#x3D; numpy.array(dataX).reshape(m[0],m[1] * m[2])</span><br><span class="line">    #     dataY &#x3D; numpy.array(dataY).reshape(list(numpy.array(dataY).shape)[0])</span><br><span class="line">    return np.array(dataX),np.array(dataY)</span><br></pre></td></tr></table></figure>
-
+    <title>Publications</title>
+    <url>/2020/06/23/Publications/</url>
+    <content><![CDATA[<h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><p><strong>1、(SCI) <a href="https://faculty.swjtu.edu.cn/zhengfangfang/zh_CN/index.htm" target="_blank" rel="noopener">Zheng, F.</a>, Lu, L., Li, R., <a href="https://faculty.swjtu.edu.cn/liuxiaobo/zh_CN/index.htm" target="_blank" rel="noopener">Liu, X.</a>, &amp; Tang, Y. (2019). <a href="https://www.researchgate.net/publication/332699029_Traffic_Oscillation_using_Stochastic_Lagrangian_Dynamics_Simulation_and_Mitigation_via_Control_of_Autonomous_Vehicles" target="_blank" rel="noopener">Traffic Oscillation using Stochastic Lagrangian Dynamics: Simulation and Mitigation via Control of Autonomous Vehicles.</a> <em>Transportation Research Record</em>, <em>2673</em>(7), 1-11.</strong></p>
+<p><strong>2、(SCI) Zheng, F. ,  Liu, C. ,  Liu, X. ,  Jabari, S. E. , &amp;  Lu, L. . (2020). <a href="https://www.researchgate.net/publication/339366584_Analyzing_the_impact_of_automated_vehicles_on_uncertainty_and_stability_of_the_mixed_traffic_flow" target="_blank" rel="noopener">Analyzing the impact of automated vehicles on uncertainty and stability of the mixed traffic flow.</a> <em>Transportation Research Part C Emerging Technologies</em>,112, 203-219.</strong></p>
+<p><strong>3、(EI) Lu, L., Zheng, F., Liu, X., &amp; Yuan, Y. (2020, November). <a href="https://www.researchgate.net/publication/347158902_A_Lagrangian_traffic_flow_model_considering_lane_changing_behavior_formulation_and_numerical_implementation" target="_blank" rel="noopener">A Lagrangian traffic flow model considering lane changing behavior: formulation and numerical implementation.</a> In 2020 Forum on Integrated and Sustainable Transportation Systems (FISTS)* (pp. 142-148). IEEE.</strong></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Projects</title>
+    <url>/2020/06/23/Projects/</url>
+    <content><![CDATA[<h2 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a>Projects</h2><table>
+<thead>
+<tr>
+<th><strong>Project 1. Reliable traffic estimation of urban road network</strong>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2018 - Jun 2019</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><em>Applied didi vehicle data correction to establish mathematical model using MATLAB, and developed an analogue simulation to road network trajectory</em></td>
+</tr>
+</tbody></table>
+]]></content>
+  </entry>
+  <entry>
+    <title>Patents</title>
+    <url>/2020/06/23/Patents/</url>
+    <content><![CDATA[<h2 id="Patents"><a href="#Patents" class="headerlink" title="Patents"></a>Patents</h2><p><strong><em>1、DFI202646 一种行驶轨迹的优化方法、装置、设备及可读存储介质</em></strong></p>
 ]]></content>
   </entry>
 </search>
