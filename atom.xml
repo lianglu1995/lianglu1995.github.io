@@ -80,19 +80,22 @@ Hello! This is LiangLu, a
   </entry>
   
   <entry>
-    <title>Publications</title>
-    <link href="http://yoursite.com/2020/06/23/Publications/"/>
-    <id>http://yoursite.com/2020/06/23/Publications/</id>
+    <title>Projects</title>
+    <link href="http://yoursite.com/2020/06/23/Projects/"/>
+    <id>http://yoursite.com/2020/06/23/Projects/</id>
     <published>2020-06-23T01:29:10.000Z</published>
-    <updated>2021-02-04T11:11:21.328Z</updated>
+    <updated>2021-02-04T10:52:18.377Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><p><strong>1、(SCI) <a href="https://faculty.swjtu.edu.cn/zhengfangfang/zh_CN/index.htm" target="_blank" rel="noopener">Zheng, F.</a>, Lu, L., Li, R., <a href="https://faculty.swjtu.edu.cn/liuxiaobo/zh_CN/index.htm" target="_blank" rel="noopener">Liu, X.</a>, &amp; Tang, Y. (2019). <a href="https://www.researchgate.net/publication/332699029_Traffic_Oscillation_using_Stochastic_Lagrangian_Dynamics_Simulation_and_Mitigation_via_Control_of_Autonomous_Vehicles" target="_blank" rel="noopener">Traffic Oscillation using Stochastic Lagrangian Dynamics: Simulation and Mitigation via Control of Autonomous Vehicles.</a> <em>Transportation Research Record</em>, <em>2673</em>(7), 1-11.</strong></p><p><strong>2、(SCI) Zheng, F. ,  Liu, C. ,  Liu, X. ,  Jabari, S. E. , &amp;  Lu, L. . (2020). <a href="https://www.researchgate.net/publication/339366584_Analyzing_the_impact_of_automated_vehicles_on_uncertainty_and_stability_of_the_mixed_traffic_flow" target="_blank" rel="noopener">Analyzing the impact of automated vehicles on uncertainty and stability of the mixed traffic flow.</a> <em>Transportation Research Part C Emerging Technologies</em>,112, 203-219.</strong></p><p><strong>3、(EI) Lu, L., Zheng, F., Liu, X., &amp; Yuan, Y. (2020, November). <a href="https://www.researchgate.net/publication/347158902_A_Lagrangian_traffic_flow_model_considering_lane_changing_behavior_formulation_and_numerical_implementation" target="_blank" rel="noopener">A Lagrangian traffic flow model considering lane changing behavior: formulation and numerical implementation.</a> In 2020 Forum on Integrated and Sustainable Transportation Systems (FISTS)* (pp. 142-148). IEEE.</strong></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a>Projects</h2><table><thead><tr><th><strong>Project 1. Reliable traffic estimation of urban road network</strong>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2018 - Jun 2019</th></tr></thead><tbody><tr><td><em>Applied didi vehicle data correction to establish mathematical model using MATLAB, and developed an analogue simulation to road network trajectory</em></td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1、(SCI) &lt;a href=&quot;https
+        &lt;h2 id=&quot;Projects&quot;&gt;&lt;a href=&quot;#Projects&quot; class=&quot;headerlink&quot; title=&quot;Projects&quot;&gt;&lt;/a&gt;Projects&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Project 1. Relia
       
     
     </summary>
@@ -124,22 +127,19 @@ Hello! This is LiangLu, a
   </entry>
   
   <entry>
-    <title>Projects</title>
-    <link href="http://yoursite.com/2020/06/23/Projects/"/>
-    <id>http://yoursite.com/2020/06/23/Projects/</id>
+    <title>Publications</title>
+    <link href="http://yoursite.com/2020/06/23/Publications/"/>
+    <id>http://yoursite.com/2020/06/23/Publications/</id>
     <published>2020-06-23T01:29:10.000Z</published>
-    <updated>2021-02-04T10:52:18.377Z</updated>
+    <updated>2021-02-04T11:11:21.328Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a>Projects</h2><table><thead><tr><th><strong>Project 1. Reliable traffic estimation of urban road network</strong>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2018 - Jun 2019</th></tr></thead><tbody><tr><td><em>Applied didi vehicle data correction to establish mathematical model using MATLAB, and developed an analogue simulation to road network trajectory</em></td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><p><strong>1、(SCI) <a href="https://faculty.swjtu.edu.cn/zhengfangfang/zh_CN/index.htm" target="_blank" rel="noopener">Zheng, F.</a>, Lu, L., Li, R., <a href="https://faculty.swjtu.edu.cn/liuxiaobo/zh_CN/index.htm" target="_blank" rel="noopener">Liu, X.</a>, &amp; Tang, Y. (2019). <a href="https://www.researchgate.net/publication/332699029_Traffic_Oscillation_using_Stochastic_Lagrangian_Dynamics_Simulation_and_Mitigation_via_Control_of_Autonomous_Vehicles" target="_blank" rel="noopener">Traffic Oscillation using Stochastic Lagrangian Dynamics: Simulation and Mitigation via Control of Autonomous Vehicles.</a> <em>Transportation Research Record</em>, <em>2673</em>(7), 1-11.</strong></p><p><strong>2、(SCI) Zheng, F. ,  Liu, C. ,  Liu, X. ,  Jabari, S. E. , &amp;  Lu, L. . (2020). <a href="https://www.researchgate.net/publication/339366584_Analyzing_the_impact_of_automated_vehicles_on_uncertainty_and_stability_of_the_mixed_traffic_flow" target="_blank" rel="noopener">Analyzing the impact of automated vehicles on uncertainty and stability of the mixed traffic flow.</a> <em>Transportation Research Part C Emerging Technologies</em>,112, 203-219.</strong></p><p><strong>3、(EI) Lu, L., Zheng, F., Liu, X., &amp; Yuan, Y. (2020, November). <a href="https://www.researchgate.net/publication/347158902_A_Lagrangian_traffic_flow_model_considering_lane_changing_behavior_formulation_and_numerical_implementation" target="_blank" rel="noopener">A Lagrangian traffic flow model considering lane changing behavior: formulation and numerical implementation.</a> In 2020 Forum on Integrated and Sustainable Transportation Systems (FISTS)* (pp. 142-148). IEEE.</strong></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Projects&quot;&gt;&lt;a href=&quot;#Projects&quot; class=&quot;headerlink&quot; title=&quot;Projects&quot;&gt;&lt;/a&gt;Projects&lt;/h2&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;Project 1. Relia
+        &lt;h2 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;1、(SCI) &lt;a href=&quot;https
       
     
     </summary>
